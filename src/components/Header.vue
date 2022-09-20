@@ -5,7 +5,7 @@
         <router-link :to="{ name: 'Home'}"><h2>GCM</h2></router-link>
       </div>
       <div class="nav-links">
-        <router-link :to="{ name: 'About'}">About Us</router-link>
+        <router-link :to="{ name: 'About'}">About</router-link>
         <router-link :to="{ name: 'Contact'}">Contact</router-link>
       </div>
     </nav>
