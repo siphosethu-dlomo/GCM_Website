@@ -2,7 +2,7 @@
   <header>
     <nav>
       <div class="logo">
-        <router-link :to="{ name: 'Home'}"><img :src="headerImg" alt="" /></router-link>
+        <router-link :to="{ name: 'Home'}"><img :src="logo" alt="" /></router-link>
       </div>
       <div class="nav-links">
         <router-link :to="{ name: 'About'}">About</router-link>
@@ -13,9 +13,9 @@
 </template>
 
 <script>
-  // const logo = new URL("../assets/images/header.png", import.meta.url).href
-  // const logo = new URL("/..assets/images/untitled-1.png", import.meta.url).href
-  import headerImg from '../assets/images/logo.png'
+
+  const logo = new URL("/..assets/images/logo.png", import.meta.url).href
+  // import logo from '../assets/images/logo.png'
 
   export default {
     
