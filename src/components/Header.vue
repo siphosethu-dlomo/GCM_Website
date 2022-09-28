@@ -2,7 +2,9 @@
   <header>
     <nav>
       <div class="logo">
-        <router-link :to="{ name: 'Home'}"><h2>GCM</h2></router-link>
+        <router-link :to="{ name: 'Home'}">
+          <img src="../assets/images/untitled-1.png" alt="">
+        </router-link>
       </div>
       <div class="nav-links">
         <router-link :to="{ name: 'About'}">About</router-link>
@@ -23,7 +25,7 @@ export default {
 
   header {
     grid-column: span 3;
-    background-image: url(../assets/images/header.jpg);
+    background-image: url(../assets/images/header.png);
     background-size:cover;
     background-position:center;
     height: 100vh;
@@ -32,10 +34,15 @@ export default {
       display: grid;
       grid-template-columns: repeat(12, 1fr);
       padding: 20px 20px;
-      background-color: #ffffff;
+      
 
       .logo {
         grid-column: span 6;
+      }
+
+      img {
+        width: 80px;
+        height: 80px;
       }
 
       .nav-links {
@@ -44,6 +51,10 @@ export default {
         align-items: center;
         display: flex;
         gap: 40px;
+
+        a {
+          color: #fff;
+        }
       }
     }
   }

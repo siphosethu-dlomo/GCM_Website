@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "Youtube_Embed": "../src/assests/images/thumb.png",
+      "Artist_Name": "ZusheyTheDJ",
+      "Song_Title": "Phoenix (Synth Mix)",
+      "Download_Link": "https://www.google.com",
+      "Tag_Category": [
+        2022,
+        "Deep House",
+        "Afro Tech"
+      ]
+    },
+    {
+      "id": 2,
+      "Youtube_Embed": "../src/assests/images/thumb.png",
+      "Artist_Name": "ZusheyTheDJ",
+      "Song_Title": "Phoenix (Synth Mix)",
+      "Download_Link": "https://www.google.com",
+      "Tag_Category": [
+        "Aug 2022",
+        "Deep House",
+        "Afro Tech"
+      ]
+    },
+    {
+      "id": 3,
+      "Youtube_Embed": "../src/assests/images/thumb.png",
+      "Artist_Name": "ZusheyTheDJ",
+      "Song_Title": "Phoenix (Synth Mix)",
+      "Download_Link": "https://www.google.com",
+      "Tag_Category": [
+        2023,
+        "Deep House",
+        "Afro Tech"
+      ]
+    },
+    {
+      "id": 4,
+      "Youtube_Embed": "../src/assests/images/thumb.png",
+      "Artist_Name": "ZusheyTheDJ",
+      "Song_Title": "Phoenix (Synth Mix)",
+      "Download_Link": "https://www.google.com",
+      "Tag_Category": [
+        2022,
+        "Deep House",
+        "Afro Tech"
+      ]
+    },
+    {
+      "id": 5,
+      "Youtube_Embed": "../src/assests/images/thumb.png",
+      "Artist_Name": "ZusheyTheDJ",
+      "Song_Title": "Phoenix (Synth Mix)",
+      "Download_Link": "https://www.google.com",
+      "Tag_Category": [
+        "June 2024",
+        "Breakbeat",
+        "Afro Tech"
+      ]
+    }    
+  ]
+}
