@@ -26,14 +26,15 @@
   h1 {
     grid-column: span 3;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 90px;
     font-size: 4rem;
   }
   .music-content-container {
     grid-column: span 3;
     display: grid;
     grid-template-columns: 4fr 0.5fr 1.5fr;
-    column-gap: 50px;
-    padding: 0px 120px;
+    column-gap: 110px;
+    padding: 0px 50px;
+    margin: 90px 0px;
   }
 </style>

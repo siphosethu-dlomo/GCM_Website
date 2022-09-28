@@ -13,9 +13,6 @@
 </template>
 
 <script>
-  //  import logo from '../assets/images/logo.png'
-  // const logo = new URL("..assets/images/logo.png", import.meta.url).href
- 
 
   export default {
     

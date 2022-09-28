@@ -20,11 +20,11 @@ export default {
  .music-posts {
     grid-column: span 2;
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    max-width: 300px;
+    column-gap: 15px;
+    row-gap: 20px;
   }
 
-  .posts {
-
-  }
 
 </style>

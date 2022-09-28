@@ -24,7 +24,6 @@ export default {
     padding: 40px 30px;
     box-shadow: 0 1px 2px 0 rgb(60 64 67 / 10%), 0 1px 3px 1px rgb(60 64 67 / 45%);
     border-radius: 5px;
-    margin: 50px 0px;
     height: 20vh;
   }
   
