@@ -5,7 +5,6 @@
 
 <script>
   import Header from './components/Header.vue'
-  import img from '../src/assets/images/thumb.png'
 
 export default {
   components: { Header }
