@@ -5,8 +5,9 @@
         <router-link :to="{ name: 'Home'}"><img src="../assets/images/logo.png" alt="" /></router-link>
       </div>
       <div class="nav-links">
-        <router-link :to="{ name: 'About'}">About</router-link>
-        <router-link :to="{ name: 'Contact'}">Contact</router-link>
+        <router-link :to="{ hash: '#About'}">About</router-link>
+        <router-link :to="{ hash: '#Follow'}">Follow Us</router-link>
+        <router-link :to="{ hash: '#Bookings'}">Bookings</router-link>
       </div>
     </nav>
   </header>

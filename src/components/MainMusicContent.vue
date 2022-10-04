@@ -1,10 +1,9 @@
 <template>
     <h1>Main Music</h1>
-    <div class="music-content-container" >
+    <Section class="music-content-container" >
       <MusicGrid />
       <SideBar />
-    </div>
-
+    </Section>
 </template>
 
 <script>
@@ -37,4 +36,5 @@
     padding: 0px 50px;
     margin: 90px 0px;
   }
+  
 </style>

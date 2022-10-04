@@ -26,5 +26,4 @@ export default {
     row-gap: 20px;
   }
 
-
 </style>
