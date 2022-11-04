@@ -2,63 +2,60 @@
   "posts": [
     {
       "id": 1,
-      "Youtube_Embed": "../src/assests/images/thumb.png",
-      "Artist_Name": "ZusheyTheDJ",
-      "Song_Title": "Phoenix (Synth Mix)",
-      "Download_Link": "https://www.google.com",
-      "Tag_Category": [
-        2022,
-        "Deep House",
-        "Afro Tech"
-      ]
+      "youtubeEmbed": "<iframe width='900px'  src='https://www.youtube.com/embed/QP2qEccrA0I' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+      "artistName": "ZusheyTheDJ",
+      "songTitle": "Phoenix",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1aSQgcFSH37XGE1WSFpvtLEkPGo2pVipm",
+      "tagsCategories": []
     },
     {
       "id": 2,
-      "Youtube_Embed": "../src/assests/images/thumb.png",
-      "Artist_Name": "ZusheyTheDJ",
-      "Song_Title": "Phoenix (Synth Mix)",
-      "Download_Link": "https://www.google.com",
-      "Tag_Category": [
-        "Aug 2022",
-        "Deep House",
-        "Afro Tech"
-      ]
+      "youtubeEmbed": "<iframe width='100%' height='100%' src='https://www.youtube.com/embed/32ZTc3T7_PE' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+      "artistName": "Zushey",
+      "songTitle": "Phoenix",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1aSQgcFSH37XGE1WSFpvtLEkPGo2pVipm",
+      "tagsCategories": []
     },
+
     {
       "id": 3,
-      "Youtube_Embed": "../src/assests/images/thumb.png",
-      "Artist_Name": "ZusheyTheDJ",
-      "Song_Title": "Phoenix (Synth Mix)",
-      "Download_Link": "https://www.google.com",
-      "Tag_Category": [
-        2023,
-        "Deep House",
-        "Afro Tech"
-      ]
+      "youtubeEmbed": "<iframe width='100%' height='100%' src='https://www.youtube.com/embed/ZJGDbR6kGjQ' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+      "artistName": "ZusheyTheDJ",
+      "songTitle": "Phoenix",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1aSQgcFSH37XGE1WSFpvtLEkPGo2pVipm",
+      "tagsCategories": []
     },
     {
       "id": 4,
-      "Youtube_Embed": "../src/assests/images/thumb.png",
-      "Artist_Name": "ZusheyTheDJ",
-      "Song_Title": "Phoenix (Synth Mix)",
-      "Download_Link": "https://www.google.com",
-      "Tag_Category": [
-        2022,
-        "Deep House",
-        "Afro Tech"
-      ]
+      "youtubeEmbed": "<iframe width='100%' height='100%' src='https://www.youtube.com/embed/fa1OGlTBz-k' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+      "artistName": "ZusheyTheDJ",
+      "songTitle": "Phoenix",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1aSQgcFSH37XGE1WSFpvtLEkPGo2pVipm",
+      "tagsCategories": []
     },
     {
       "id": 5,
-      "Youtube_Embed": "../src/assests/images/thumb.png",
-      "Artist_Name": "ZusheyTheDJ",
-      "Song_Title": "Phoenix (Synth Mix)",
-      "Download_Link": "https://www.google.com",
-      "Tag_Category": [
-        "June 2024",
-        "Breakbeat",
-        "Afro Tech"
-      ]
-    }    
+      "youtubeEmbed": "<iframe width='100%' height='100%' src='https://www.youtube.com/embed/dzrZbSTKUto' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+      "artistName": "ZusheyTheDJ",
+      "songTitle": "Phoenix",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1aSQgcFSH37XGE1WSFpvtLEkPGo2pVipm",
+      "tagsCategories": []
+    },
+    {
+      "id": 6,
+      "youtubeEmbed": "<iframe width='100%' height='100%' src='https://www.youtube.com/embed/T_EeD-V6eDk' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+      "artistName": "ZusheyTheDJ",
+      "songTitle": "Phoenix",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1aSQgcFSH37XGE1WSFpvtLEkPGo2pVipm",
+      "tagsCategories": []
+    },
+    {
+      "id": 7,
+      "youtubeEmbed": "<iframe width='100%' height='100%' src='https://www.youtube.com/embed/atfQGqiF5T4' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+      "artistName": "ZusheyTheDJ",
+      "songTitle": "Phoenix",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1aSQgcFSH37XGE1WSFpvtLEkPGo2pVipm",
+      "tagsCategories": []
+    }
   ]
 }

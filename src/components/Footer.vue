@@ -1,7 +1,9 @@
 <template>
-  <footer>
-    <div class="year">GCM. {{ year }}</div>
-    <div class="reserve">All Rights Reserved</div>
+  <footer class="container-xxl">
+    <div class="container text-center">
+      <div class="year">GCM. {{ year }}</div>
+      <div class="reserve">All Rights Reserved</div>
+    </div>
   </footer>
 </template>
 
@@ -16,15 +18,5 @@ export default {
 </script>
 
 <style lang="scss">
-  footer {
-    grid-column: span 3;
-    background-color: #03000D;
-    border-top: 1px solid #fff;
-    text-align: center;
-
-    & div {
-      color: #fff;
-    }
-  }
 
 </style>
