@@ -52,7 +52,7 @@
 
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 
   header {
     background-image: url(../assets/images/header.png);

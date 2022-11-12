@@ -1,7 +1,7 @@
 <template>
-    <section class="music-content-container">
+    <section class="music-content-container py-5">
       <div class="container-xxl">
-        <h1 class="text-center fs-1 my-5">Main Music</h1>
+        <h1 class="text-center fs-1 mb-5 section-heading">Main Music</h1>
 
         <!-- Music Posts -->
         <MusicGrid />
@@ -14,14 +14,12 @@
 
 <script>
   import MusicGrid from './MusicGrid.vue'
-  // import Pagination from './Pagination.vue'
   // import SideBar from './SideBar.vue'
   
   export default {
     name: 'Home',
     components: {
-      MusicGrid,
-      // Pagination
+      MusicGrid
     }
   }
 
@@ -29,6 +27,14 @@
 
 <style lang="scss" scoped>
 
+.music-content-container {
+  background-color: #010101;
+
+  .section-heading {
+    color: #ffffff;
+  }
+
+}
 
   
 </style>
