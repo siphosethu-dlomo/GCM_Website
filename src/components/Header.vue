@@ -1,14 +1,14 @@
 <template>
   <header class="container-fluid">
     <div class="container-xxl">
-     <nav class="navbar navbar-expand-md">
+     <nav class="navbar navbar-expand-md ">
       <div class="navbar-brand">
         <router-link :to="{ name: 'Home'}"><img src="" alt="" />Logo Here</router-link>
       </div>
 
       <!-- toggle button for mobile nav -->
       <button 
-        class="navbar-toggler" 
+        class="navbar-toggler text-white" 
         type="button"
         data-bs-toggle="collapse"
         data-bs-target="#main-nav"
@@ -16,7 +16,7 @@
         aria-expanded="false"
         aria-label="Toggle-navigation"
       >
-        <span class="navbar-toggler-icon"></span>
+        <span class="navbar-toggler-icon bg-primary"></span>
       </button>
 
       <!-- navbar links -->
@@ -27,13 +27,13 @@
 
         <ul class="navbar-nav">
           <li class="nav-item">
-            <router-link class="nav-link" :to="{ hash: '#About'}">About</router-link>
+            <router-link class="nav-link text-white" :to="{ hash: '#About'}">About</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" :to="{ hash: '#Follow'}">Follow Us</router-link>
+            <router-link class="nav-link text-white" :to="{ hash: '#Follow'}">Follow Us</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" :to="{ hash: '#Bookings'}">Bookings</router-link>
+            <router-link class="nav-link text-white" :to="{ hash: '#Bookings'}">Bookings</router-link>
           </li>
         </ul>
 

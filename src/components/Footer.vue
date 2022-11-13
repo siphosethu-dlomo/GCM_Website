@@ -1,8 +1,8 @@
 <template>
   <footer class="container-xxl">
-    <div class="container text-center">
+    <div class="container text-cente d-flex justify-content-between p-3">
       <div>
-        <span class="current-year">GCM. {{ year }}</span> 
+        <span class="current-year">G. Centric Music. {{ year }}</span> 
       </div>
       <div>
        <span class="copyright">All Rights Reserved</span>
