@@ -49,16 +49,16 @@
               </div>
               <div class="py-1">
                 <!-- add mailto: -->
-                <i class="bi bi-envelope me-1"></i>
+                <i class="bi bi-envelope me-1 fs-1"></i>
                 <span class="artist-email">thulanisitho@gmail.com</span>
               </div>
               <div class="pb-1">
                 <!-- add telephone attribute <a href="tel:+4733378901">+47 333 78 901</a> -->
-                <i class="bi bi-whatsapp me-1"></i>
+                <i class="bi bi-whatsapp me-1 fs-5"></i>
                 <span class="artist-number artist-whatsapp-number">067 806 8671</span>
               </div>
               <div class="">
-                <i class="bi bi-phone me-1"></i>
+                <i class="bi bi-phone me-1 fs-4"></i>
                 <span class="artist-number artist-phonecall-number">067 933 5610</span>
               </div>
             </div>
