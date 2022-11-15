@@ -41,20 +41,22 @@
         <div class="col-md-6">
           <div id="Bookings" class="bookings">
             <h1 class="bookings-heading">For Bookings</h1>
-            <h3 class="artist-name mt-4">AudioMinded</h3>
-            <!-- make this a link, linking to the social media section of AudioMindied above -->
-            <span class="social-media-dm mb-2">DM on Social Media</span>
-            <br>
-            <!-- add mailto: -->
-            <i class="bi bi-envelope me-1"></i>
-            <span class="artist-email mb-2">thulanisitho@gmail.com</span>
-            <br>
-            <!-- add telephone attribute <a href="tel:+4733378901">+47 333 78 901</a> -->
-            <i class="bi bi-whatsapp me-1"></i>
-            <span class="artist-number mb-2 artist-whatsapp-number">067 806 8671</span>
-            <br>
-            <i class="bi bi-phone me-1"></i>
-            <span class="artist-number artist-phonecall-number">067 933 5610</span>
+            <div>
+              <h3 class="artist-name mt-4">AudioMinded</h3>
+              <!-- make this a link, linking to the social media section of AudioMindied above -->
+              <span class="social-media-dm mb-2">DM on Social Media</span>
+              <br>
+              <!-- add mailto: -->
+              <i class="bi bi-envelope me-1"></i>
+              <span class="artist-email mb-2">thulanisitho@gmail.com</span>
+              <br>
+              <!-- add telephone attribute <a href="tel:+4733378901">+47 333 78 901</a> -->
+              <i class="bi bi-whatsapp me-1"></i>
+              <span class="artist-number mb-2 artist-whatsapp-number">067 806 8671</span>
+              <br>
+              <i class="bi bi-phone me-1"></i>
+              <span class="artist-number artist-phonecall-number">067 933 5610</span>
+            </div>
           </div>    
         </div>  
       </div>
