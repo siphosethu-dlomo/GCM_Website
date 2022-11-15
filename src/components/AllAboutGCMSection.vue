@@ -45,19 +45,19 @@
               <h3 class="artist-name mt-4">AudioMinded</h3>
               <div>
                 <!-- make this a link, linking to the social media section of AudioMindied above -->
-                <span class="social-media-dm mb-2">DM on Social Media</span>
+                <span class="social-media-dm">DM on Social Media</span>
               </div>
-              <div>
+              <div class="py-1">
                 <!-- add mailto: -->
                 <i class="bi bi-envelope me-1"></i>
                 <span class="artist-email">thulanisitho@gmail.com</span>
               </div>
-              <div>
+              <div class="pb-1">
                 <!-- add telephone attribute <a href="tel:+4733378901">+47 333 78 901</a> -->
                 <i class="bi bi-whatsapp me-1"></i>
-                <span class="artist-number mb-2 artist-whatsapp-number">067 806 8671</span>
+                <span class="artist-number artist-whatsapp-number">067 806 8671</span>
               </div>
-              <div>
+              <div class="">
                 <i class="bi bi-phone me-1"></i>
                 <span class="artist-number artist-phonecall-number">067 933 5610</span>
               </div>
