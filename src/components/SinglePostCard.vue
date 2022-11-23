@@ -7,7 +7,7 @@
           <h2>{{ post.artistName }}</h2>
           <p>{{ post.songTitle }}</p>
         </div>
-        <!-- make it a link, display inline-block/block -->
+        <a :href="post.downloadLink" class="btn btn-primary w-100 xx">Download</a>
       </div>
     </div>
   </section>

@@ -27,6 +27,11 @@ const router = createRouter({
       path: '/post/:id',
       name: 'Post',
       component: SinglePost
+    },
+    {
+      path: '/www.google.com',
+      name: 'Download',
+      component: SinglePost
     }
   ]
 })

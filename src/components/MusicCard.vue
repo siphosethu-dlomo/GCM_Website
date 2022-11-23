@@ -1,7 +1,7 @@
 <template>
 
-  <div v-for="item in paginatedData" :key="item.id" @click="$router.push(`/post/${item.id}`)" class="col mb-4 ">
-    <div class="card-container">
+  <div v-for="item in paginatedData" :key="item.id" class="col mb-4">
+    <div class="card-container shadow-sm">
       <div class="iframe-container" v-html="item.youtubeEmbed"></div>
       <div class="video-description">
         <div class="video-title">
@@ -9,6 +9,7 @@
           <p class="song-title">{{ item.songTitle }}</p>
         </div>
         <!-- make it a download link button, display inline-block/block -->
+        <a :href="item.downloadLink" class="btn btn-primary w-100 bg-colour border-0">Download</a>
       </div>
     </div>
   </div>
@@ -106,6 +107,11 @@
         -webkit-background-clip: text;
         background-clip: text;
         color: transparent;
+      }
+
+      .bg-colour {
+        background: linear-gradient(104deg, rgba(255,51,0,1) 0%, rgba(236,77,29,1) 51%, rgba(241,146,59,1) 100%, rgba(222,185,120,1) 100%);
+
       }
   }
 

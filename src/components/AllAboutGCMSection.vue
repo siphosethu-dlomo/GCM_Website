@@ -1,5 +1,5 @@
 <template>
-  <section id="About" class="pt-5 pb-3 container-xxl about">
+  <section id="About" class="py-5 container-xxl about">
     <div class="container text-center">
       <h1 class="section-heading">All About GCM</h1>
       <div class="about-section-content">
